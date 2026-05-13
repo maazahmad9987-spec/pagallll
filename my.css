@@ -1,0 +1,16 @@
+.countaner{
+    display: flex;
+    gap: 15px; 
+    justify-content: center;
+    align-items: center;
+
+}
+.btn{
+    font-size: 12px;
+    padding: 4px 12px;
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+
+    background-color: rgb(164, 164, 230);
+}
